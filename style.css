@@ -9,7 +9,8 @@
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "https://fonts.googleapis.com/css?family=Nunito:200|Roboto:100,400,700|Raleway:600";
+  font-family: "Segoe UI";
+  font-src: url(https://github.com/shipfam/shipfam.com/blob/646442d4288f8c9553267bc533201ce526dcc7d1/fonts/segoe-ui.woff)
   height: 100%;
   width: 100%;
   margin: 0;
