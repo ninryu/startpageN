@@ -1,5 +1,5 @@
 :root {
-    --color-bg: #353844;
+    --color-bg: #252A33;
     --color-fg: #9DA0B3;
     --color-link: #8F9191;
     --color-link-visited: #668F8B;
@@ -22,7 +22,7 @@ html, body {
   grid-template-columns: 1fr 460px 600px 1fr;
   grid-template-areas:
     ". left right .";
-  column-gap: 80px;
+  column-gap: 60px;
   justify-items: center;
   align-items: center;
   min-height: 100%;
@@ -35,11 +35,11 @@ html, body {
 
 .right-container {
   grid-area: right;
-  height: 50%;
+  height: 170%;
   width: 100%;
 }
 
-.gif img {
+.png img {
   max-width: 100%;
   max-height: 100%;
 }
@@ -49,7 +49,7 @@ html, body {
   flex-direction: column;
   align-items: center;
   font-size: 40px;
-  padding-top: 60px;
+  padding-top: 700px;
 }
 
 .category {
