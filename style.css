@@ -9,7 +9,7 @@
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  font-family: "https://fonts.googleapis.com/css?family=Nunito:200|Roboto:100,400,700|Raleway:600";
   height: 100%;
   width: 100%;
   margin: 0;
